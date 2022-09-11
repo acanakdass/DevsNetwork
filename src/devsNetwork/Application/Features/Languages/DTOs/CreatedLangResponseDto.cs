@@ -1,0 +1,7 @@
+namespace Application.Features.Languages.DTOs;
+
+public class CreatedLangResponseDto
+{
+    public int Id { get; set; }
+    public string Name { get; set; }
+}
